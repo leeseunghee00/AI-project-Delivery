@@ -9,4 +9,4 @@
 
 ### 3. Tool
 - Language : Python
-- Module : pandas, matplotlib
+- Module : pandas, matplotlib, numpy
